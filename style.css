@@ -1,0 +1,39 @@
+.card{
+    display: flex;
+    align-items: center;
+    background-color: gold;
+    object-fit: contain;
+    margin: 20px;
+}
+img{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+.produtos{
+    display: flex;
+    width: 320px;
+    margin: auto;
+    align-items: center;
+    padding: 20px;
+    margin-left: auto;
+    text-align: center;
+}
+.button:hover{
+background-color: blue;
+}
+.button:focus{
+background-color: rebeccapurple
+}
+.promo{
+    position: absolute; top:auto; right: auto;
+
+}
+body{
+    background-color: rgb(153, 153, 153);
+}
+main{
+    align-items: center;
+    display: flex;
+    align-items: center;
+}
